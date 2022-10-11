@@ -1,0 +1,15 @@
+#root{
+display: flex;
+flex-wrap: wrap;
+width: 1000px;
+}
+
+.rect{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    
+}
+  
